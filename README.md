@@ -1,4 +1,12 @@
-.../Users/prarthanadesai/gitpraths/assets/banner.png...
+![Banner](./assets/banner.png)
+
+### 👩🏻‍💻 About Me
+👨🏻‍🎓 Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham, Amritapuri  
+🌐 Currently diving deep into Web Development  
+🚀 Passionate about building, learning, and collaborating  
+📬 Reach me at: prarthana.desai2004@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prarthana-desai-295324292/)
+
 
 ### 📝 Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -24,7 +32,6 @@
 
 ### 📚 Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-Buefy Buefy
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,3 +65,20 @@ Buefy Buefy
 [![Praths's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Praths's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=contribs,prs&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitpraths&theme=tokyonight)](https://git.io/streak-stats)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues" />
+</picture>
