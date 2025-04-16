@@ -12,10 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      # Generate the Snake SVG
       - name: Generate the snake animation
-        uses: Platane/snk@master
+      - uses: Platane/snk@master
         with:
           github_user_name: gitpraths
           svg_out_path: dist/github-contribution-grid-snake.svg
