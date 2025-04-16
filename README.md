@@ -67,4 +67,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitpraths&layout=compact&theme=dark)
 
-![Snake animation](https://raw.githubusercontent.com/gitpraths/gitpraths/output/github-contribution-grid-snake.svg)
