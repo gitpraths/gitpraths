@@ -66,15 +66,3 @@
 ![gitpraths's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide_rank=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitpraths&layout=compact)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=prs,contribs,issues" />
-</picture>
