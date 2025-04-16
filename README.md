@@ -62,14 +62,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Praths's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### Github Stats
+![gitpraths's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide_rank=true&theme=dark)
 
-![Praths's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&theme=transparent)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide=contribs,prs&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitpraths&theme=tokyonight)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitpraths&layout=compact)
 
 <picture>
   <source
