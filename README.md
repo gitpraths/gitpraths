@@ -65,6 +65,6 @@
 ### Github Stats
 ![gitpraths's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitpraths&show_icons=true&hide_rank=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitpraths&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitpraths&layout=compact&theme=dark)
 
 ![Snake animation](https://github.com/gitpraths/gitpraths/blob/output/github-contribution-grid-snake.svg)
